@@ -1,5 +1,7 @@
 ## Hii there!! 👋
 
+
+Hello! I'm Eshan Bhuse, a [Your Role] passionate about building efficient, scalable, and impactful software solutions. With a strong foundation in [your expertise], I enjoy solving complex problems and continuously learning new technologies.
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

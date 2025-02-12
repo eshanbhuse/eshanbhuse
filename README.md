@@ -1,5 +1,6 @@
-## Hii there!! 👋
+![Blue And Purple Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/ee1a5407-4d1f-4dc6-afc7-0f40435f3231)
 
+## Hii there!! 👋
 
 🎓 Hello! I'm Eshan Bhuse, a Full Stack Developer pursuing my B. Tech Degree from Sardar Patel Institute of Technology. I am also passionate about building efficient, scalable, and impactful software solutions. With a strong foundation in Networking, I enjoy solving complex problems and continuously learning new technologies.
 
@@ -8,7 +9,6 @@
 ✈ Outside the tech world, I enjoy traveling to new places, meeting new people, and developing new skills ranging from playing guitar to going to the gym.
 
 🎸 I love reading books about personal development and financial literacy. I read Rich Dad, Poor Dad, Atomic Habits, How to Win and Influence People, and many more.
-
 
 ## Achievements 🏅
 

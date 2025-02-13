@@ -17,8 +17,8 @@
 Semi-Finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:40px ; width:400px"> 
+<a href="www.google.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px"> 
 
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

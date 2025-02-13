@@ -21,7 +21,7 @@ Semi-finalist at Tata Imagination Challenge
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">
 &nbsp; &nbsp; &nbsp; 
 <a href="https://linkedin.com/eshanbhuse">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons-for-free.com%2Fgoogle%2Bmail%2Bicon-1320192249286867468%2F&psig=AOvVaw2rU-IR3YGlqE0bDKvizpMT&ust=1739545190843000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNik-Pv0wIsDFQAAAAAdAAAAABAE)" style="height:20px ; width:20px">
 &nbsp; &nbsp; &nbsp;
 <a href="https://linkedin.com/eshanbhuse">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">

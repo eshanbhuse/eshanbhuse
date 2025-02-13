@@ -18,7 +18,7 @@ Semi-Finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
 
-[LinkedIn](https://linkedin.com/eshanbhuse)           [LeetCode](https://leetcode.com/eshanbhuse)
+[LinkedIn](https://linkedin.com/eshanbhuse)----------       [LeetCode](https://leetcode.com/eshanbhuse)
 
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

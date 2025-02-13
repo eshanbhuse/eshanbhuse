@@ -14,7 +14,7 @@
 
 ## Achievements 🏅
 
-Semi-Finalist at Tata Imagination Challenge
+Semi-finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
 <a href="https://linkedin.com/eshanbhuse">

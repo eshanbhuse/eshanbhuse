@@ -22,7 +22,7 @@ Semi-finalist at Tata Imagination Challenge
 &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/eshanbhuse?igsh=ZjE0dXR0dDIzeTB1">
 <img src="https://camo.githubusercontent.com/8342a064f949ad5a82eccbbc46ff36fd3dcfbd5558141f439bee3072b107b83b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="height:20px ; width:50px">
-
+&nbsp; &nbsp; &nbsp;
 <a href="https://leetcode.com/eshanbhuse">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSl-jzQiq_emXTw4xlPC50JGvuHb_gJj_u0Q&s" style="height:20px ; width:50px">
 

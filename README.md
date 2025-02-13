@@ -16,9 +16,8 @@
 
 Semi-Finalist at Tata Imagination Challenge
 
-## Where to FIND ME
+## FIND ME AROUND THE WEB 🌎:
 
-Linked In Email ID 
 
 
 <!--

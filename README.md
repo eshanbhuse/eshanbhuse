@@ -1,6 +1,6 @@
 ![Blue And Purple Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/ee1a5407-4d1f-4dc6-afc7-0f40435f3231)
 
-## Hey, I'm Eshan!! 👋
+# Hey, I'm Eshan!! 👋
 
 🎓 Hello! I'm Eshan Bhuse, a Full Stack Developer pursuing my B—Tech Degree from Sardar Patel Institute of Technology. I love to build efficient, scalable, and impactful software solutions. 
    With a strong foundation in Networking, I enjoy solving complex problems and am keen to learn new technologies.
@@ -18,7 +18,8 @@ Semi-Finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
 
-dsadasd
+[LinkedIn]()
+[LeetCode]()
 
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

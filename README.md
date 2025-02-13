@@ -16,7 +16,7 @@
 
 Semi-Finalist at Tata Imagination Challenge
 
-## FIND ME AROUND THE WEB 🌎:
+## Find me around the world 🌎:
 
 dsadasd
 

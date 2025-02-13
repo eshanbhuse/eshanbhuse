@@ -18,7 +18,7 @@ Semi-Finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
 
-[LinkedIn]()
+[LinkedIn](https://linkedin.com/eshanbhuse)
 [LeetCode]()
 
 <!--

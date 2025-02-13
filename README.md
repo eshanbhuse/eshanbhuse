@@ -18,9 +18,15 @@ Semi-finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎:
 <a href="https://linkedin.com/eshanbhuse">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px"> &nbsp; &nbsp; &nbsp; <a href="https://linkedin.com/eshanbhuse">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px"> &nbsp; &nbsp; &nbsp; <a href="https://linkedin.com/eshanbhuse">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px"> &nbsp; &nbsp; &nbsp; <a href="https://linkedin.com/eshanbhuse">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">
+&nbsp; &nbsp; &nbsp; 
+<a href="https://linkedin.com/eshanbhuse">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">
+&nbsp; &nbsp; &nbsp;
+<a href="https://linkedin.com/eshanbhuse">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px">
+&nbsp; &nbsp; &nbsp; 
+<a href="https://linkedin.com/eshanbhuse">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" style="height:20px ; width:20px"> 
 
 <!--

@@ -32,6 +32,10 @@ Semi-finalist at Tata Imagination Challenge
 <a href="https://leetcode.com/eshanbhuse">
 <img src="https://blog.kakaocdn.net/dn/dyqZon/btqE0kscvyH/KVB2iWfZCj95KVWcjC7oIk/img.png" style="width:90px;height:30px">
 
+
+## Github Stats 🏅
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eshanbhuse&theme=algolia_icons=true)
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

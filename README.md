@@ -34,7 +34,8 @@ Semi-finalist at Tata Imagination Challenge
 
 
 ## Github Stats 🏅
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)<!--
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
+<!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

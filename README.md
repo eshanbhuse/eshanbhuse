@@ -17,7 +17,7 @@
 Semi-finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎: 
-<a href="https://linkedin.com/eshanbhuse">
+<a href="www.linkedin.com/in/eshanbhuse">
 <img src="https://camo.githubusercontent.com/078a190291061c96a40d8ed74889f00e0aeec21a17d9a726038588a3248b24f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f267374796c653d666c61742d737175617265266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" style="height:20px ; width:50px">
 &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/eshanbhuse?igsh=ZjE0dXR0dDIzeTB1">

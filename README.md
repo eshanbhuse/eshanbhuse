@@ -7,12 +7,8 @@
 
 🎯 I enjoy contributing to open-source projects and am enthusiastic about new technologies. I also got started with freelancing and blogging recently. Currently, I am learning Django, Flutter, 
    and System Design.
-   <br>
-<br>
-<br>
 
-
-  ____                  ____                      
+     ____                  ____                      
  / __ \___  ___ ___    / __/__  __ _____________  
 / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
 \____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
@@ -21,10 +17,6 @@
  / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
-
-<br>
-<br>
-<br>
 
 ✈ Outside the tech world, I enjoy traveling to new places, meeting new people, and developing new skills ranging from playing guitar to going to the gym.
 

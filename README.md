@@ -18,14 +18,9 @@ Semi-finalist at Tata Imagination Challenge
 
 ## Find me around the world 🌎: 
 <a href="www.linkedin.com/in/eshanbhuse">
-
 <img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465">
-
-
-&nbsp; &nbsp; &nbsp;
-<a href="https://www.instagram.com/eshanbhuse?igsh=ZjE0dXR0dDIzeTB1">
-<img src="https://camo.githubusercontent.com/8342a064f949ad5a82eccbbc46ff36fd3dcfbd5558141f439bee3072b107b83b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f267374796c653d666c61742d737175617265266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" style="height:20px ; width:50px">
-&nbsp; &nbsp; &nbsp;
+<a href="https://www.google.com">
+<img src="https://camo.githubusercontent.com/290851f87e4ab0147a0e9680e78244edf16303a3c965658336d64dc41e3974ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465">
 <a href="https://leetcode.com/eshanbhuse">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHuHSUPReN0JNV58cqEdvUnT36I75ITosoSw&s" style="height:20px ; width:50px">
 

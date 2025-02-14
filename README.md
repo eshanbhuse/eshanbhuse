@@ -19,7 +19,6 @@
 
 Semi-finalist at Tata Imagination Challenge
 
-   <br>
 
 
 ## Github Stats 🚀:

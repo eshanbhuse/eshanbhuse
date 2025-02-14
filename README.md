@@ -21,7 +21,6 @@ Semi-finalist at Tata Imagination Challenge
 
    <br>
 
-   <br>
 
 ## Github Stats 🚀:
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false"> 
@@ -41,7 +40,6 @@ Semi-finalist at Tata Imagination Challenge
 <img align="center" src="https://www.datocms-assets.com/48294/1725363740-21_quotes_brian_kernighan.webp?auto=format" style="width:800px;height:200px">
 
 <br>
-   <br>
 
 ## Languages and Tools: 
 <a href="https://www.w3schools.com/cpp/">

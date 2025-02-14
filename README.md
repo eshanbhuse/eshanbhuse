@@ -43,6 +43,7 @@ Semi-finalist at Tata Imagination Challenge
 </p>
 
 ![](https://raw.githubusercontent.com/eshanbhuse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<br>
 
 ## Random Dev Quote: 🏅
 <img align="center" src="https://www.datocms-assets.com/48294/1725363740-21_quotes_brian_kernighan.webp?auto=format" style="width:800px;height:200px">

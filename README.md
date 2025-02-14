@@ -33,7 +33,7 @@ Semi-finalist at Tata Imagination Challenge
 <img src="https://blog.kakaocdn.net/dn/dyqZon/btqE0kscvyH/KVB2iWfZCj95KVWcjC7oIk/img.png" style="width:90px;height:30px">
 
 
-## Github Stats 
+## Github Stats 🚀:
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false"> 
   <img  alt="eshanbhuse's GitHub Stats" align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false">  
   </a>

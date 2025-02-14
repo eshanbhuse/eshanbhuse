@@ -37,7 +37,7 @@ Semi-finalist at Tata Imagination Challenge
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanbhuseE&theme=dark&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanbhuse&theme=dark&layout=compact" alt="Top Langs">
 </p>
 
 <!--

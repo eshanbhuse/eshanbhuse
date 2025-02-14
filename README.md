@@ -30,7 +30,7 @@ Semi-finalist at Tata Imagination Challenge
 <a href="">
 <img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-1704x958.jpg" style="width:78px;height:28px">
 <a href="">
-<img src="https://static.dezeen.com/uploads/2020/10/gmail-google-logo-rebrand-workspace-design_dezeen_2364_col_0-1704x958.jpg" style="width:78px;height:28px">
+<img src="https://blog.kakaocdn.net/dn/dyqZon/btqE0kscvyH/KVB2iWfZCj95KVWcjC7oIk/img.png" style="width:78px;height:28px">
 
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

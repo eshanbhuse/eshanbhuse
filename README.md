@@ -54,6 +54,34 @@ Semi-finalist at Tata Imagination Challenge
 ## Languages and Tools: 
 <a href="">
 <img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://camo.githubusercontent.com/2167e144b868512a0723b3556c44410b6fb52a0e569ef5f2768232b8b705c649/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667">
+<a href="">
+<img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 
 <!--

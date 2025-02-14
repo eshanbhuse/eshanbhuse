@@ -44,6 +44,9 @@ Semi-finalist at Tata Imagination Challenge
 
 ![](https://raw.githubusercontent.com/eshanbhuse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
+## Randon Dev Quote: 🏅
+<img src="https://www.datocms-assets.com/48294/1725363740-21_quotes_brian_kernighan.webp?auto=format">
+
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

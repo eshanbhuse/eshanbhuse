@@ -48,6 +48,10 @@ Semi-finalist at Tata Imagination Challenge
 ## Random Dev Quote: 🏅
 <img align="center" src="https://www.datocms-assets.com/48294/1725363740-21_quotes_brian_kernighan.webp?auto=format" style="width:800px;height:200px">
 
+<br>
+## Languages and Tools: 🏅
+<img src="https://camo.githubusercontent.com/ea2b8a5e139f26430914f373fb72ef6c560a6d806737cd3e05e224eba409e3fa/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e643947635354547a5041772d353573736d31496d35393478595a3965525175324a796c726b594c6726757371703d434155">
+<img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src=""><img src="">
 <!--
 **eshanbhuse/eshanbhuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

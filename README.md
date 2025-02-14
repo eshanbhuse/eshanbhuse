@@ -35,7 +35,7 @@ Semi-finalist at Tata Imagination Challenge
 
 ## Github Stats 🏅
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false"> 
-  <img  alt="eshanbhuse's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false" />  
+  <img  alt="eshanbhuse's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false" style="justify-content: space-around;align-items: center;display: flex;">  
   </a>
 
 <p align="right">

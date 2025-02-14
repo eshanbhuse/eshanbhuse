@@ -33,7 +33,7 @@ Semi-finalist at Tata Imagination Challenge
 <img src="https://blog.kakaocdn.net/dn/dyqZon/btqE0kscvyH/KVB2iWfZCj95KVWcjC7oIk/img.png" style="width:90px;height:30px">
 
 
-## Github Stats 🏅
+## Github Stats 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=algolia&preferLogin=false"> 
   <img  alt="eshanbhuse's GitHub Stats" align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/eshanbhuse?cardType=level&theme=algolia&preferLogin=false">  
   </a>
@@ -42,14 +42,15 @@ Semi-finalist at Tata Imagination Challenge
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanbhuse&theme=dark&layout=compact" alt="Top Langs">
 </p>
 
-![](https://raw.githubusercontent.com/eshanbhuse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 <br>
 
-## Random Dev Quote: 🏅
+## Random Dev Quote: ✨
 <img align="center" src="https://www.datocms-assets.com/48294/1725363740-21_quotes_brian_kernighan.webp?auto=format" style="width:800px;height:200px">
 
 <br>
-## Languages and Tools: 🏅
+## Languages and Tools: 
 <img width="30px" height="30px" align="left" src="https://camo.githubusercontent.com/ea2b8a5e139f26430914f373fb72ef6c560a6d806737cd3e05e224eba409e3fa/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e253341414e643947635354547a5041772d353573736d31496d35393478595a3965525175324a796c726b594c6726757371703d434155">
 <img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 <img width="30px" height="30px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><img src="">

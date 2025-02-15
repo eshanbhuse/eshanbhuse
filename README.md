@@ -30,7 +30,7 @@ Semi-finalist at Tata Imagination Challenge
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshanbhuse&theme=dark&layout=compact" alt="Top Langs">
 </p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eshanbhuse&repo=github-readme-stats)](https://github.com/eshanbhuse/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eshanbhuse&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/eshanbhuse/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 

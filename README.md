@@ -36,7 +36,7 @@ Semi-finalist at Tata Imagination Challenge
 <br>
 
 ## Random Dev Quote: ✨
-<img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/2000881-Joel-Spolsky-Quote-It-s-harder-to-read-code-than-to-write-it.jpg" style="width:800px;height:200px">
+<img align="center" src="https://i.redd.it/y3bg31c45kj01.jpg" style="width:800px;height:200px">
 
 <br>
 

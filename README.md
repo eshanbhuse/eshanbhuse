@@ -36,7 +36,7 @@ Semi-finalist at Tata Imagination Challenge
 <br>
 
 ## Random Dev Quote: ✨
-<img align="center" src="https://i.redd.it/y3bg31c45kj01.jpg" style="width:800px;height:200px">
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fwallpapers%2F4k-programming-quotes-poster-cgfhpg0wtn6kbj7l.html&psig=AOvVaw0kgyzPoyW9rruwUVd5rcHb&ust=1740317969950000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiS6-Sz14sDFQAAAAAdAAAAABAq" style="width:800px;height:200px">
 
 <br>
 

@@ -36,9 +36,9 @@ Semi-finalist at Tata Imagination Challenge
 <br>
 
 ## Random Dev Quote: ✨
-![programming-is-thinking (2)](https://github.com/user-attachments/assets/f3eea041-d0ed-4bac-812c-5533bd38c5e4)
-
+![programming-is-thinking (2) (1)](https://github.com/user-attachments/assets/cc93b032-9e61-4585-8ef0-2ef2010fc84a)
 <br>
+
 
 ## Languages and Tools: 
 <a href="https://www.w3schools.com/cpp/">

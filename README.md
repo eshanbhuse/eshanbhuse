@@ -36,7 +36,8 @@ Semi-finalist at Tata Imagination Challenge
 <br>
 
 ## Random Dev Quote: ✨
-![programming-is-thinking (2) (1)](https://github.com/user-attachments/assets/cc93b032-9e61-4585-8ef0-2ef2010fc84a)
+![programming-is-thinking (2) (1)](https://github.com/user-attachments/assets/0a14ecdc-a7f2-4016-8805-cd6427547090)
+
 <br>
 
 

@@ -3,10 +3,10 @@
 # Hey, I'm Eshan!! 👋
 
 
-🎓 Hello! I'm Eshan Bhuse, a Full Stack Developer pursuing my B—Tech Degree from Sardar Patel Institute of Technology. I love to build efficient, scalable, and impactful software solutions. 
-   With a strong foundation in Networking, I enjoy solving complex problems and am keen to learn new technologies.
+🎓 Hello! I'm Eshan Bhuse, a Full Stack Developer pursuing my B.Tech Degree from Sardar Patel Institute of Technology. I love to build efficient, scalable, and impactful websites. 
+   With a strong foundation in DSA, I enjoy solving complex problems and am keen to learn new technologies.
 
-🎯 I enjoy contributing to open-source projects and am enthusiastic about new technologies. I also got started with freelancing and blogging recently. Currently, I am learning Django, Flutter, 
+🎯 I enjoy contributing to open-source projects and am enthusiastic about new technologies. Currently, I am learning Django, Flutter, 
    and System Design.
 ![Screenshot (786)](https://github.com/user-attachments/assets/1cd8fb03-cdfc-4741-bdc7-ac3e2df0122a)
 

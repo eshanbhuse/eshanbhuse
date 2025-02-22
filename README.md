@@ -36,7 +36,9 @@ Semi-finalist at Tata Imagination Challenge
 <br>
 
 ## Random Dev Quote: ✨
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webdevelopersnotes.com%2Ftake-responsibility-for-making-your-dream-a-reality&psig=AOvVaw0kgyzPoyW9rruwUVd5rcHb&ust=1740317969950000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiS6-Sz14sDFQAAAAAdAAAAABBA" style="width:800px;height:200px">
+![programming-is-thinking](https://github.com/user-attachments/assets/fddd1038-d2cc-4b43-af2e-83b9f5a50044)
+
+<img align="center" src="" style="width:800px;height:200px">
 
 <br>
 

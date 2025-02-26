@@ -1,5 +1,5 @@
 
-![Blue And Purple Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/7677ffea-c187-4361-9b57-e32105e72632)
+![Blue And Purple Professional Technology LinkedIn Banner](https://github.com/user-attachments/assets/46f5ad5b-cbf5-499d-ba45-8fc3a80820be)
 # Hey, I'm Eshan!! 👋
 
 
